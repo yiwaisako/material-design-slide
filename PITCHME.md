@@ -128,11 +128,6 @@
 #### 水平にスワイプして隠しメニュを表示する。
 
 ---
-### リスト: コントロール
-<br>
-#### 水平にスワイプして隠しメニュを表示する。
-
----
 ### 選択ツール
 <br>
 #### モバイルでは、選択ツールは確認ダイアログに表示するのが最も適しています。フォームなどのインライン表示の場合は、セグメント プルダウン ボタンのようなコンパクトなコントロールを使用することをおすすめします。
@@ -140,7 +135,7 @@
 ---
 ### 進行状況とアクティビティ
 <br>
-#### パークのダイアログのインジケータは見当たらない。画面埋め込みのほうがよいか？
+#### マンガParkのようなダイアログのインジケータは見当たらない。
 
 [動画1](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZ0V1QXpxOVdsTXM/components-progressactivity-behavior_Loading_SwipeDown_xhdpi_005.mp4)　[動画2](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsbjk2UFZsOGNENkE/components-progressactivity-behavior-Loading_Files_Circular_xhdpi_003.mp4)
 
@@ -154,7 +149,7 @@
 <br>
 #### タブ間のナビゲーションにはスワイプ操作が使用されるため、スワイプ操作に対応するコンテンツにはタブを使用しないでください。たとえば、スワイプでコンテンツを水平に移動できる地図や項目を削除できるリストでは、タブの使用を避けてください。
 
-#### 追記：googlePlayではスワイプ操作するコンテンツでもタブを使っています。
+#### 追記：google Playではスワイプ操作するコンテンツでもタブを使っています。
 
 
 
@@ -223,7 +218,8 @@ growth_communication.pdf
 
 ---
 ### resources.pdf
-<br>
+
+---
 #### 文章が左から始まる言語対応。ヘブライ語とか。
 
 
