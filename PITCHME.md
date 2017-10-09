@@ -1,4 +1,4 @@
-### こんにちは！
+@title[Step 1. Create 'PITCHME.md']
 
 
 これはサンプルのスライド資料です。
