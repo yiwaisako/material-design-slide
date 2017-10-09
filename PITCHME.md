@@ -3,8 +3,11 @@
 #### 2017/10/12
 #### iwaisako.y
 ---
+### マテリアル デザインのガイドライン（日本語版）
+[link](マテリアル デザインのガイドライン（日本語版）)
+
+---
 ### material_design.pdf
-[link](https://www.gstatic.com/material/spec/jp/material_design.pdf)
 
 ---
 ### マテリアルの動き
