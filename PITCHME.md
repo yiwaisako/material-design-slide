@@ -25,7 +25,7 @@
 <br>
 ### 要素がビューに遷移するとき、要素とその周りの要素は、互いの関係を示すような動きになっています。
 
-[動画1](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01TFFreDdlSVp3dGc/Aware_01_Choreo-v2.mp4)、[動画2](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01RFdjQWE4ZXBseWM/Aware_02_MoveAway-v2.mp4)
+[動画1](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01TFFreDdlSVp3dGc/Aware_01_Choreo-v2.mp4)　[動画2](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01RFdjQWE4ZXBseWM/Aware_02_MoveAway-v2.mp4)
 
 ---
 ### 優れた遷移の特徴
