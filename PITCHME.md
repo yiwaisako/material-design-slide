@@ -21,9 +21,7 @@
 ### モバイル端末では、大きなアニメーションの継続時間は 300～400 ms、小さなアニメーションでは 150～200 ms になります。
 
 ---
-### マテリアルの動き方
-
-
+### マテリアルの動き方  
 ### 要素がビューに遷移するとき、要素とその周りの要素は、互いの関係を示すような動きになっています。
 
 [動画1](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01TFFreDdlSVp3dGc/Aware_01_Choreo-v2.mp4)
