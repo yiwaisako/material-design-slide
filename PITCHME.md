@@ -4,7 +4,7 @@
 #### iwaisako.y
 ---
 ### マテリアル デザインのガイドライン（日本語版）
-[link](マテリアル デザインのガイドライン（日本語版）)
+[link](https://material.io/jp/guidelines/)
 
 ---
 ### material_design.pdf
