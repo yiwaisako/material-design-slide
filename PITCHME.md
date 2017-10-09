@@ -4,6 +4,7 @@
 #### iwaisako.y
 ---
 ### material_design.pdf
+[link](https://www.gstatic.com/material/spec/jp/material_design.pdf)
 
 ---
 ### マテリアルの動き
@@ -39,14 +40,6 @@
 ### モーションの意義
 <br>
 #### 動画のように、遷移中、ユーザーは次のビューへと導かれます。サーフェスは階層がわかるように変形しています。読み込みは背後で行われているため、遅れをあまり感じさせません。
-
-[適切](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01Um1wdzhBR1ZuYVE/ImplicationsDo-v2.mp4)　[不適切](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01anJjQkt4QS1GRzQ/ImplicationsDont-v2.mp4)
-
-
----
-### モーションの意義
-<br>
-#### 適切の動画のように、遷移中、ユーザーは次のビューへと導かれます。サーフェスは階層がわかるように変形しています。読み込みは背後で行われているため、遅れをあまり感じさせません。
 
 [適切](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01Um1wdzhBR1ZuYVE/ImplicationsDo-v2.mp4)　[不適切](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01anJjQkt4QS1GRzQ/ImplicationsDont-v2.mp4)
 
@@ -88,17 +81,149 @@
 <br>
 #### 再生ボタンが一時停止ボタンに変わることで、2 つのアクションがリンクされていることと、一方を押すともう一方が表示されることがわかります。
 
-[動画](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01dWJzTWlsVGdPT0E/DD_Icon_Anim_Play_v2.mp4)
-
 
 ---
 ### style.pdf
+#### 文字とか色関連。大きく気になる点はなし。
+
+---
+### layout.pdf
+
+---
+### ベースライン グリッド
+<br>
+#### モバイル、タブレット、パソコンでは、すべての要素を 8dp四方のベースライン グリッドに揃えて配置します。ツールバーに表示するアイコン画像は、4 dp 四方のベースライン グリッドに揃えて配置します。文字は 4dp のベースライン グリッドに揃えて入力します。
+
+---
+### タップ ターゲットのサイズ
+<br>
+#### タップ ターゲットのサイズを 48 x 48 dp以上にする必要があります。タップ ターゲット間には 8 dp 以上のスペースを挿入します
+
+---
+### components.pdf
+
+---
+### フラットボタン
+<br>
+#### 押した状態: 40% #999999。
+
+[動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbjE5djFGMzdKcmc/components-buttons-flatbuttons.mp4)
+
+---
+### ダイアログ　シンプルメニュー
+<br>
+#### リンクをクリックしたらポップアップメニューが表示される。
+
+# 画像必要
 
 
 ---
-### クリエイティブなカスタマイズ　システム アイコン
+### デバイダー（リストなどの区切り線）
 <br>
-#### 再生ボタンが一時停止ボタンに変わることで、2 つのアクションがリンクされていることと、一方を押すともう一方が表示されることがわかります。
+#### ライトテーマでは透明度 12% のブラック、ダークテーマでは透明度 12% のホワイトで、幅は 1dp
 
-[動画](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01dWJzTWlsVGdPT0E/DD_Icon_Anim_Play_v2.mp4)
+---
+### リスト: コントロール
+<br>
+#### 水平にスワイプして隠しメニュを表示する。
+
+---
+### リスト: コントロール
+<br>
+#### 水平にスワイプして隠しメニュを表示する。
+
+---
+### 選択ツール
+<br>
+#### モバイルでは、選択ツールは確認ダイアログに表示するのが最も適しています。フォームなどのインライン表示の場合は、セグメント プルダウン ボタンのようなコンパクトなコントロールを使用することをおすすめします。
+
+---
+### 進行状況とアクティビティ
+<br>
+#### パークのダイアログのインジケータは見当たらない。画面埋め込みのほうがよいか？
+
+[動画1](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZ0V1QXpxOVdsTXM/components-progressactivity-behavior_Loading_SwipeDown_xhdpi_005.mp4)　[動画2](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsbjk2UFZsOGNENkE/components-progressactivity-behavior-Loading_Files_Circular_xhdpi_003.mp4)
+
+---
+### スナックバーとトースト
+<br>
+#### お気に入り消した後にスナックバーで通知とUNDOメニューの提供
+
+---
+### タブ
+<br>
+#### タブ間のナビゲーションにはスワイプ操作が使用されるため、スワイプ操作に対応するコンテンツにはタブを使用しないでください。たとえば、スワイプでコンテンツを水平に移動できる地図や項目を削除できるリストでは、タブの使用を避けてください。
+
+#### 追記：googlePlayではスワイプ操作するコンテンツでもタブを使っています。
+
+
+
+---
+### テキスト欄
+<br>
+#### フォームのデザイン｡入力エラーの表現など
+
+---
+### patterns.pdf
+
+---
+### エラー
+<br>
+#### アプリのエラー。ユーザに原因を伝える。回復させる操作があるならそれを伝える。
+#### 矛盾状態のエラー。機内モードのときに電話掛けるなど、ユーザの操作が原因であるかのように表現を使わない。
+
+---
+### 画面遷移　親から子への遷移
+<br>
+#### 高度を変えることによって、親要素から子要素へのフォーカスの変化を示します
+[動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsYkFhbTNWaHpydm8/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.mp4)　[動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV2JxZnUyNVB1eWc/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.mp4)　
+
+
+
+---
+### 通知
+<br>
+#### 以下の場合は通知を使用すべきではありません。情報が既に画面に表示されている場合（たとえば進行中のチャットの会話）。ユーザーの関与を必要としない技術的な操作（たとえば同期）。ユーザーの関与なしで解決できる一時的なエラー状態
+
+#### アプリの設定で、通知を無効にしたり変更したりできるようにしてください。
+
+---
+### 通知 ポップアップ通知
+<br>
+#### 新しいSMSメッセージが届いた場合などに使う。
+
+---
+### 選択　チェックボックス
+<br>
+#### チェックボックス（または独自に作成したそれに類するもの）は、タスクリストやチェックリストで各項目が完了したことを示す場合にのみ使用してください。モバイルでは、選択操作に使用しないようにしてください。
+
+---
+### 選択　項目の選択
+<br>
+#### リストやグリッドのコンテナは、複数選択に対応させることを強く推奨します。ただし、選択できる操作が 1 つしかない場合（たとえば電話番号のリストにおいて発信が唯一の選択肢である場合）は例外です。
+
+---
+### スワイプでの更新
+<br>
+#### コンテンツの更新。おすすめの方法は、同期を使用したコンテンツの自動更新です。同期ではユーザーの操作が必要ないため、アプリのコンテンツが自動的に最新の状態に保たれます。
+
+---
+growth_communication.pdf
+
+---
+### ユーザー補助（障害を持ったユーザの考慮）　読みやすさ
+<br>
+#### 大きいフォントサイズでも快適に使えるようにする。
+
+
+---
+### 双方向性
+<br>
+#### 文章が左から始まる言語対応。ヘブライ語とか。
+
+---
+### resources.pdf
+<br>
+#### 文章が左から始まる言語対応。ヘブライ語とか。
+
 
