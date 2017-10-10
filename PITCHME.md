@@ -83,8 +83,7 @@
 ### クリエイティブなカスタマイズ　システム アイコン
 <br>
 #### 再生ボタンが一時停止ボタンに変わることで、2 つのアクションがリンクされていることと、一方を押すともう一方が表示されることがわかります。
-[動画](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01dWJzTWlsVGdPT0E/DD_Icon_Anim_Play_v2.mp4
-)
+[動画](http://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B14F_FSUCc01dWJzTWlsVGdPT0E/DD_Icon_Anim_Play_v2.mp4)
 
 
 ---
@@ -98,7 +97,7 @@
 ### ベースライン グリッド
 <br>
 #### モバイル、タブレット、パソコンでは、すべての要素を 8 dp四方のベースライン グリッドに揃えて配置します。ツールバーに表示するアイコン画像は、4 dp 四方のベースライン グリッドに揃えて配置します。文字は 4 dp のベースライン グリッドに揃えて入力します。
-![image](assets/layout_baseline_grid.jpg)
+![image](assets/layout_baseline_grid.png)
 
 ---
 ### タップ ターゲットのサイズ
