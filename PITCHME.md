@@ -134,21 +134,17 @@
 <img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/components_hidden_control.png" alt="Logo" height="300px">
 
 ---
-### 選択ツール
-<br>
-#### モバイルでは、選択ツールは確認ダイアログに表示するのが最も適しています。フォームなどのインライン表示の場合は、セグメント プルダウン ボタンのようなコンパクトなコントロールを使用することをおすすめします。
-
----
 ### 進行状況とアクティビティ
 <br>
 #### マンガParkのようなダイアログのインジケータは見当たらない。
 
-[動画1](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZ0V1QXpxOVdsTXM/components-progressactivity-behavior_Loading_SwipeDown_xhdpi_005.mp4)　[動画2](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsbjk2UFZsOGNENkE/components-progressactivity-behavior-Loading_Files_Circular_xhdpi_003.mp4)
+[動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsbjk2UFZsOGNENkE/components-progressactivity-behavior-Loading_Files_Circular_xhdpi_003.mp4)
 
 ---
 ### スナックバーとトースト
-<br>
-#### お気に入り消した後にスナックバーで通知とUNDOメニューの提供
+<span style="color: #bbb; font-size: 60%">お気に入り消した後にスナックバーで通知とUNDOメニューの提供</span>
+
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/components_snack_bar.png" alt="Logo" height="300px">
 
 ---
 ### タブ
@@ -161,8 +157,9 @@
 
 ---
 ### テキスト欄
-<br>
-#### フォームのデザイン｡入力エラーの表現など
+<span style="color: #bbb; font-size: 60%">フォームのデザイン｡入力エラーの表現など</span>
+
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/components_text.png" alt="Logo" height="300px">
 
 ---
 ### patterns.pdf
@@ -179,8 +176,6 @@
 #### 高度を変えることによって、親要素から子要素へのフォーカスの変化を示します
 [動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsYkFhbTNWaHpydm8/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.mp4)　[動画](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV2JxZnUyNVB1eWc/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.mp4)　
 
-
-
 ---
 ### 通知
 <br>
@@ -190,9 +185,10 @@
 
 ---
 ### 通知 ポップアップ通知
-<br>
-#### 新しいSMSメッセージが届いた場合などに使う。
+<span style="color: #bbb; font-size: 60%">重要な通知に使う。新しいSMSメッセージが届いた場合など。</span>
 
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/pattern_push.png" alt="Logo" height="300px">
+  
 ---
 ### 選択　チェックボックス
 <br>
