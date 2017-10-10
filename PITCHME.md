@@ -95,9 +95,8 @@
 
 ---
 ### ベースライン グリッド
-<span style="color:white; line-height: 0.7em; font-size:0.6em;">モバイル、タブレット、パソコンでは、すべての要素を 8 dp四方のベースライン グリッドに揃えて配置します。ツールバーに表示するアイコン画像は、4 dp 四方のベースライン グリッドに揃えて配置します。文字は 4 dp のベースライン グリッドに揃えて入力します。</span>
-
-<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/layout_baseline_grid.png" alt="Logo" width="300px">
+* モバイル、タブレット、パソコンでは、すべての要素を 8 dp四方のベースライン グリッドに揃えて配置します。ツールバーに表示するアイコン画像は、4 dp 四方のベースライン グリッドに揃えて配置します。文字は 4 dp のベースライン グリッドに揃えて入力します。
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/layout_baseline_grid.png" alt="Logo" height="300px">
 
 ---
 ### タップ ターゲットのサイズ
