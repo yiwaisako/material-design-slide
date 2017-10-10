@@ -116,10 +116,10 @@
 
 ---
 ### ダイアログ　シンプルメニュー
-<br>
-#### リンクをクリックしたらポップアップメニューが表示される。
+<span style="color: #bbb; font-size: 60%">リンクをクリックしたらポップアップメニューが表示される。</span>
 
-# 画像必要
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/components_simple_menu.png" alt="Logo" height="300px">
+
 
 
 ---
@@ -129,8 +129,9 @@
 
 ---
 ### リスト: コントロール
-<br>
-#### 水平にスワイプして隠しメニュを表示する。
+<span style="color: #bbb; font-size: 60%">スワイプしたときにのみ表示されるリスト コントロールを「隠しコントロール」と呼びます。</span>
+
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/components_hidden_control.png" alt="Logo" height="300px">
 
 ---
 ### 選択ツール
