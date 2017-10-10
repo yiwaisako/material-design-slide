@@ -187,7 +187,7 @@
 ### 通知 ポップアップ通知
 <span style="color: #bbb; font-size: 60%">重要な通知に使う。新しいSMSメッセージが届いた場合など。</span>
 
-<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/pattern_push.png" alt="Logo" height="300px">
+<img src="https://raw.githubusercontent.com/yst-gliese581g/material-design-slide/master/assets/pattern_push.png" alt="Logo"　height="300px">
   
 ---
 ### 選択　チェックボックス
@@ -222,6 +222,6 @@
 ### resources.pdf
 
 ---
-#### 文章が左から始まる言語対応。ヘブライ語とか。
+#### 文字フォントなど。
 
 
